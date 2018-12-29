@@ -6,4 +6,4 @@ To run the notebook, you need to install Anaconda and to run the environment :
 
 * `activate Toxcat_environment`
 
-If you have any question, you can contact me with the email address ’camille.garcia@biochemistry.lu.se'. 
+If you have any question, you can contact me with the email address: camille.garcia@biochemistry.lu.se. 
