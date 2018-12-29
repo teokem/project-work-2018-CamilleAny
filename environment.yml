@@ -1,0 +1,19 @@
+name: Toxcat_environment
+channels:
+  - conda-forge
+dependencies:
+  - gcc
+  - python=3.7
+  - matplotlib
+  - ipywidgets
+  - notebook
+  - numpy
+  - openpyxl
+  - pandas
+  - pip
+  - scipy
+  - pip
+  - xlrd
+  - simplegeneric
+  - cython
+  - geopandas
