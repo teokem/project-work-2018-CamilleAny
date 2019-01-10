@@ -3,9 +3,9 @@
 
 # ANOVA (Analysis of Variance) on the result of a TOXCAT experiment
 
-The data that I used come from my Master thesis project, which was done under the supervision of Jean-Pierre Duneau and Eric Durand at the "Laboratoire d'Ingénierie des Systèmes Macromoléculaires" (UMR7255) CNRS Marseille. 
+The data that I used come from my Master thesis project, which was done under the supervision of Jean-Pierre Duneau and Eric Durand at the ["Laboratoire d'Ingénierie des Systèmes Macromoléculaires"](https://lism.cnrs-mrs.fr) (UMR7255) CNRS Marseille. 
 
-To run the notebook, you need to install Anaconda and to run the environment :
+To run the notebook, you need to install [Anaconda](https://www.anaconda.com/download/), clone this directory, install and run the environment in the right directory with these commands :
 
 * `conda env create -f environment.yml`
 
