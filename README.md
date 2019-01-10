@@ -5,7 +5,7 @@
 
 The data that I used come from my Master thesis project, which was done under the supervision of Jean-Pierre Duneau and Eric Durand at the ["Laboratoire d'Ingénierie des Systèmes Macromoléculaires"](https://lism.cnrs-mrs.fr) (UMR7255) CNRS Marseille. 
 
-To run the notebook, you need to install [Anaconda](https://www.anaconda.com/download/), clone this directory, install and run the environment in the right directory with these commands :
+To run the notebook, you need to install [Anaconda](https://www.anaconda.com/download/), clone this directory, install and run the environment in the right directory with these commands in a terminal :
 
 * `conda env create -f environment.yml`
 
